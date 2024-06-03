@@ -25,7 +25,7 @@ Multiplier on advance protocol applied duration: .25, so scaling 2*.25 gives min
 RNG-able values for volume: [.4, .45, .5, .55, .6]
 
 RNG-able values for tempo: [.8, .9, 1, 1.1, 1.2]
-### -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Some neuroscience clippings [THE BRIEF: music interfaces with regions of brain mediating components of cognitive function, tempo factors]:
 Effects of Musical Tempo on Musicians’ and Non-musicians’ Emotional Experience When Listening to Music https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6243583/
