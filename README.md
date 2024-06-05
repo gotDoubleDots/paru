@@ -6,6 +6,8 @@
 
 ### Want to give it a shot?
 
+## Download all files as zip, extract to folder; Within extracted folder, keep song1.mp3 or replace with another audio file also named song1.mp3. Open index.html with Brave. Once open, press 't' key. To stop music, refresh. After refresh, can restart with 't'. 
+
 I'll try my best to explain the workings:
 
 It's parametric-automated functional around controlled sequence RNG method with proven biochem relevant numericals deliberating dynamic modification to volume and speed. In other words, the general idea to advance song along fluctuations to volume and speed defined along a special number preset interval pattern with RNG functionality alongside key amplitude breakpoints applied to deciding extent of volume or tempo modification.
