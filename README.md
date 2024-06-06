@@ -1,5 +1,4 @@
-# paru
-## parametric-automated remix utility
+# paru :: parametric-automated remix utility
 
 ## Demo :: https://www.youtube.com/watch?v=aCFeNhdGYWc
 
